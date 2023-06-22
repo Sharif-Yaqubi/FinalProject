@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
+ // and also I add to my project a IconImage
 class HomePage extends StatefulWidget {
   const HomePage({Key key}) : super(key: key);
 
