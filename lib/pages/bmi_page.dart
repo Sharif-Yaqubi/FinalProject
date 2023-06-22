@@ -113,7 +113,7 @@ class _BmiPageState extends State<BmiPage> {
       ),
     );
   }
-
+ // The Last page i develope it was BMI 
   void calculateBmi() {
     _bmiScore = _width / pow(_height / 100, 2);
   }
